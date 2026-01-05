@@ -1,0 +1,20 @@
+{
+  "id":"acode.plugin.one",
+  "name":"Acode Plugin One",
+  "main":"main.js",
+  "version":"1.0.0",
+  "readme":"readme.md",
+  "icon":"icon.png",
+  "files":[],
+  "minVersionCode":290,
+  "license":"",
+  "changelogs":"changelogs.md",
+  "keywords":["basic"],
+  "price":0,
+  "repository":"",
+  "author":{
+    "name":"",
+    "email":"@gmail.com",
+    "github":""
+  }
+}
