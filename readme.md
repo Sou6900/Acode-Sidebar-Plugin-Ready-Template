@@ -3,17 +3,19 @@
 
 #### Starter command
 
-	```js
-	npm install
-	```
+```
+npm install
+```
+
 
 #### build with Development Mode
 
-	```js
-	npm run watch
-    ```
+```
+npm run watch
+```
 
 #### build with Production Mode
-	```js
-	 npm run build
-    ```
+
+```
+npm run build
+```
