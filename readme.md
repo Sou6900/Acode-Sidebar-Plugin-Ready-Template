@@ -1,10 +1,13 @@
 ## Acode Basic Plugin Template
 
 
-#### Starter command
+#### Single Ready Command ⚡
 
 ```
+git clone https://github.com/Sou6900/Acode-Sidebar-Plugin-Ready-Template.git my-plugin
+cd my-plugin
 npm install
+npm run watch
 ```
 
 
