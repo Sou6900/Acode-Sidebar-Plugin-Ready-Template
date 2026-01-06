@@ -1,4 +1,4 @@
-## Acode Basic Plugin Template
+## Acode Sidebar Ready Plugin Template
 
 
 #### Single Ready Command ⚡
